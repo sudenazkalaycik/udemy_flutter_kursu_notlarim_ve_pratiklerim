@@ -4,7 +4,7 @@ import 'package:pratikler_ve_notlarim/Liste_turleri_ve_olusturma_methodlari/cust
 import 'package:pratikler_ve_notlarim/Liste_turleri_ve_olusturma_methodlari/grid_view_kullanimi.dart';
 import 'package:pratikler_ve_notlarim/Liste_turleri_ve_olusturma_methodlari/listview_kullanimi.dart';
 import 'package:pratikler_ve_notlarim/Liste_turleri_ve_olusturma_methodlari/listview_layout_problemleri.dart';
-import 'package:pratikler_ve_notlarim/Stataffull_widget_ve_butonlar/main.dart';
+import 'package:pratikler_ve_notlarim/Stataffull_widget_ve_butonlar/main_widgets_ve_butonlar.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 
 

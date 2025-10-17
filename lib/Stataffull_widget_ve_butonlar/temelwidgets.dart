@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pratikler_ve_notlarim/dropdown_button_kullanimi.dart';
-import 'package:pratikler_ve_notlarim/popupmenu_kullanimi.dart';
+import 'package:pratikler_ve_notlarim/Stataffull_widget_ve_butonlar/dropdown_button_kullanimi.dart';
+import 'package:pratikler_ve_notlarim/Stataffull_widget_ve_butonlar/popupmenu_kullanimi.dart';
 import 'image_widgets.dart';
 import 'my_counter_page.dart';
 import 'temel_buton_turleri.dart';
